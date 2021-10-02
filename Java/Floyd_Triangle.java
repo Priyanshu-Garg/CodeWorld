@@ -1,7 +1,3 @@
-pattern questions
-
-code in java:
-
 public class floydTriangle {
     public static void main(String[] args){
         int num=1;
@@ -15,4 +11,3 @@ public class floydTriangle {
         }
     }
 }
-
