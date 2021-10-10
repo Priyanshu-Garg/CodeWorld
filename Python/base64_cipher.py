@@ -11,4 +11,4 @@ elif s == "enc":
     print("[+]{}".format(string))
     print("[+]Encoded! {}".format(base64.b64encode(string.encode('utf-8'))))
 else:
-    print("What's?")
+    print("dec or enc !!!!!!!!!!")
