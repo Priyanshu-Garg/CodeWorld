@@ -1,4 +1,4 @@
-
+#code for searching
 def search(list,n):
 
 	for i in range(len(list)):
